@@ -1,0 +1,27 @@
+Você foi contradado para criar uma aplicação para o caixa eletrônico do Banco Serratec!
+
+A aplicação deve conter as seguintes funcionalidades:
+
+A aplicação precisa ser executada enquanto o "caixa eletrônico" estiver ligado;
+
+Login e Senha: Só sera possível realizar as operações caso o login e senha sejam inseridos corretamente;
+(Você deve "mockar" os dados de login e senha, ou seja, seu programa terá variáveis com login e senha já preenchidos no seu código. Use-os para fazer a validação);
+
+Após validação do login e senha, exibir um menu com as opções abaixo:
+
+Depósito: opção para depositar o valor na conta;
+
+Saque: opção para sacar o dinheiro;
+
+Saldo: Opção para exibir o saldo atual;
+
+Sair: Volta para a "tela" de login;
+
+
+Observação: As "Telas" devem ser informativas e guiar o usuário.
+
+Desafios valendo Pontos Extras:
+
+Mensagem de confirmação da Operação: Sempre que o usuário efetuar uma operação, mostrar mensagem perguntando se ele tem certeza;
+Criar um vetor de 10 posições para armazenar as últimas 10 operações que o usuário fez.
+Programa multiusuário usar os conceitos de vetor e matriz para ter mais de uma conta cadastrada.
